@@ -75,6 +75,7 @@
     </div>
 
     <!-- Scripts -->
+    <script src="{{ asset('js//tinymce/tinymce.min.js') }}"></script>
     <script src="{{ asset('js/app.js') }}"></script>
 </body>
 </html>
